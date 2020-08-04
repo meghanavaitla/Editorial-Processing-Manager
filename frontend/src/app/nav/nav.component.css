@@ -1,0 +1,52 @@
+#div-title{
+    
+    width: 60%;
+    height: 70%;
+    border-bottom: 0.3vw solid #ff4b2b;
+    margin-left: 2vw;
+    box-shadow: -0.8vw 1vw 1vw  #c4c4c4;
+    margin-bottom: auto;
+    
+     
+      
+}
+#div-title span{
+    font-size: 1.5vw;
+    background: #ff4b2b;
+    display: inline-block;
+    height:auto;
+    vertical-align: bottom;
+    padding:0.2vw 5vw 0.2vw 1vw;
+    /* border-radius: 0 3vw 0 0; */
+    margin-top: 1vw;
+    
+    
+}
+
+#logo{
+    background-color: skyblue;
+    height: 4%;
+    width:4%;
+   margin-left: 0.5vw;
+   margin-top: 0.5vw;
+}
+#icons{
+    margin-left: auto;
+    margin-top: auto;
+}
+#icons i{
+    font-size: 2.5vw;
+    padding-left: 2vw;
+    color: #ff4b2b;
+   
+}
+#icons a{
+    text-decoration: none;
+}
+#icons span{
+    font-size: 1vw;
+    padding-left: 0.5vw;
+    padding-right: 5vw;
+
+    
+}
